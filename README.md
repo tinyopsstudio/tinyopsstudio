@@ -6,11 +6,13 @@ TinyOps builds fixed-scope automation, AI operations, and workflow rescue system
 
 | Service | Price | Typical delivery | Start |
 | --- | ---: | --- | --- |
+| 3-workflow automation audit | $99 | 3 business days | [Buy the audit](https://tinyopsstudio.gumroad.com/l/workflow-audit?wanted=true) |
+| Make workflow rescue sprint | $499 | 3 business days | [Buy the rescue sprint](https://whop.com/joined/tinyops-studio-llc/products/make-workflow-rescue-sprint/) |
+| AI agent workflow sprint | $1,000 | 7 business days | [Buy the workflow sprint](https://whop.com/joined/tinyops-studio-llc/products/ai-agent-workflow-sprint/) |
 | Business automation build | $499 | 3 to 5 days | [View the service](https://reworkdigital.io/services/i-will-build-a-custom-business-automation-20/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | Excel sales forecast model | $499 | 3 to 5 days | [View the service](https://reworkdigital.io/services/i-will-build-your-excel-sales-forecast-model-14/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | Focused AI operations assistant | $999 | Fixed scope | [View the service](https://reworkdigital.io/services/i-will-build-a-focused-ai-operations-assistant-19/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | Urgent automation rescue sprint | $4,999 | Priority delivery | [View the service](https://reworkdigital.io/services/i-will-rescue-your-urgent-automation-project-21/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
-| Workflow audit | $250 | Written findings | [View the service](https://reworkdigital.io/services/i-will-audit-your-business-workflow-and-deliver-an-automation-plan-18/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 
 Need a larger or unusual scope? [Send the written intake](https://tinyopsstudio.com/start?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services).
 
