@@ -7,6 +7,8 @@ TinyOps builds fixed-scope automation, AI operations, and workflow rescue system
 | Service | Price | Typical delivery | Start |
 | --- | ---: | --- | --- |
 | 3-workflow automation audit | $99 | 3 business days | [Buy the audit](https://tinyopsstudio.gumroad.com/l/workflow-audit?wanted=true) |
+| RFP compliance gap scan | $149 | 1 business day | [Buy the gap scan](https://whop.com/joined/tinyops-studio-llc/products/rfp-compliance-gap-scan/) |
+| Proposal response accelerator | $2,500 | Fixed scope | [Buy the accelerator](https://whop.com/proposal-response-accelerator/) |
 | Make workflow rescue sprint | $499 | 3 business days | [Buy the rescue sprint](https://whop.com/joined/tinyops-studio-llc/products/make-workflow-rescue-sprint/) |
 | AI agent workflow sprint | $1,000 | 7 business days | [Buy the workflow sprint](https://whop.com/joined/tinyops-studio-llc/products/ai-agent-workflow-sprint/) |
 | Business automation build | $499 | 3 to 5 days | [View the service](https://reworkdigital.io/services/i-will-build-a-custom-business-automation-20/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
@@ -15,6 +17,19 @@ TinyOps builds fixed-scope automation, AI operations, and workflow rescue system
 | Urgent automation rescue sprint | $4,999 | Priority delivery | [View the service](https://reworkdigital.io/services/i-will-rescue-your-urgent-automation-project-21/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 
 Need a larger or unusual scope? [Send the written intake](https://tinyopsstudio.com/start?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services).
+
+## Live proposal response checklists
+
+These independent checklists help qualified primes and vendors map requirements, evidence, owners, dependencies, and final QA. Official solicitation documents and amendments always control.
+
+- [GAC TBIPS AI support, due August 28](https://tinyopsstudio.com/gac-tbips-ai-support-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [TBS Data and AI Accelerator, due August 28](https://tinyopsstudio.com/tbs-data-ai-accelerator-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Alberta sovereign compute prequalification, due August 31](https://tinyopsstudio.com/alberta-sovereign-compute-prequalification-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Manitoba Hydro Grid Modernization, due September 1](https://tinyopsstudio.com/manitoba-hydro-grid-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [CMHC AI translation and post-editing RFI, due September 2](https://tinyopsstudio.com/cmhc-ai-translation-mtpe-rfi-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Sourcewell unified communications and contact center, due September 29](https://tinyopsstudio.com/sourcewell-uc-contact-center-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+
+[Open the complete RFP gap-scan resource](https://tinyopsstudio.com/rfp-compliance-gap-scan?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists).
 
 ## Working proof
 
