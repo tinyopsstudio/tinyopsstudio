@@ -29,6 +29,7 @@ These independent checklists help qualified primes and vendors map requirements,
 - [Alberta sovereign compute prequalification, due August 31](https://tinyopsstudio.com/alberta-sovereign-compute-prequalification-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Manitoba Hydro Grid Modernization, due September 1](https://tinyopsstudio.com/manitoba-hydro-grid-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [CMHC AI translation and post-editing RFI, due September 2](https://tinyopsstudio.com/cmhc-ai-translation-mtpe-rfi-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Dalhousie Virtual Software Applications, due September 2](https://tinyopsstudio.com/dalhousie-virtual-software-applications-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [City of Calgary Tax Systems Modernization, due September 15](https://tinyopsstudio.com/calgary-tax-systems-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Alberta Clinical Ambient AI, due September 17](https://tinyopsstudio.com/alberta-clinical-ambient-ai-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Sourcewell unified communications and contact center, due September 29](https://tinyopsstudio.com/sourcewell-uc-contact-center-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
