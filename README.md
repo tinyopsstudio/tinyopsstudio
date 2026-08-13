@@ -22,11 +22,15 @@ Need a larger or unusual scope? [Send the written intake](https://tinyopsstudio.
 
 These independent checklists help qualified primes and vendors map requirements, evidence, owners, dependencies, and final QA. Official solicitation documents and amendments always control.
 
+- [WorkSafeBC Digital Product Analytics, due August 24](https://tinyopsstudio.com/worksafebc-digital-product-analytics-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Manitoba Project Online replacement, due August 25](https://tinyopsstudio.com/manitoba-project-online-replacement-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [GAC TBIPS AI support, due August 28](https://tinyopsstudio.com/gac-tbips-ai-support-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [TBS Data and AI Accelerator, due August 28](https://tinyopsstudio.com/tbs-data-ai-accelerator-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Alberta sovereign compute prequalification, due August 31](https://tinyopsstudio.com/alberta-sovereign-compute-prequalification-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Manitoba Hydro Grid Modernization, due September 1](https://tinyopsstudio.com/manitoba-hydro-grid-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [CMHC AI translation and post-editing RFI, due September 2](https://tinyopsstudio.com/cmhc-ai-translation-mtpe-rfi-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [City of Calgary Tax Systems Modernization, due September 15](https://tinyopsstudio.com/calgary-tax-systems-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Alberta Clinical Ambient AI, due September 17](https://tinyopsstudio.com/alberta-clinical-ambient-ai-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Sourcewell unified communications and contact center, due September 29](https://tinyopsstudio.com/sourcewell-uc-contact-center-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 
 [Open the complete RFP gap-scan resource](https://tinyopsstudio.com/rfp-compliance-gap-scan?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists).
