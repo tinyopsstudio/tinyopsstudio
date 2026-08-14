@@ -33,6 +33,7 @@ These independent checklists help qualified primes and vendors map requirements,
 - [Dalhousie Virtual Software Applications, due September 2](https://tinyopsstudio.com/dalhousie-virtual-software-applications-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [City of Calgary Tax Systems Modernization, due September 15](https://tinyopsstudio.com/calgary-tax-systems-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Alberta Clinical Ambient AI, due September 17](https://tinyopsstudio.com/alberta-clinical-ambient-ai-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [AHCCCS ALTCS E/PD Managed Care, due September 24](https://tinyopsstudio.com/ahcccs-altcs-epd-managed-care-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [VIA Rail EUC Managed Services, due September 28](https://tinyopsstudio.com/via-rail-euc-managed-services-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Sourcewell unified communications and contact center, due September 29](https://tinyopsstudio.com/sourcewell-uc-contact-center-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 
