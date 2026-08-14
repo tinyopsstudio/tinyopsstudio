@@ -22,6 +22,7 @@ Need a larger or unusual scope? [Send the written intake](https://tinyopsstudio.
 
 These independent checklists help qualified primes and vendors map requirements, evidence, owners, dependencies, and final QA. Official solicitation documents and amendments always control.
 
+- [UNC Biorepository Platform, due August 21](https://tinyopsstudio.com/unc-biorepository-platform-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [WorkSafeBC Digital Product Analytics, due August 24](https://tinyopsstudio.com/worksafebc-digital-product-analytics-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Manitoba Project Online replacement, due August 25](https://tinyopsstudio.com/manitoba-project-online-replacement-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [GAC TBIPS AI support, due August 28](https://tinyopsstudio.com/gac-tbips-ai-support-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
