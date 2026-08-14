@@ -31,6 +31,8 @@ These independent checklists help qualified primes and vendors map requirements,
 - [Manitoba Hydro Grid Modernization, due September 1](https://tinyopsstudio.com/manitoba-hydro-grid-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [CMHC AI translation and post-editing RFI, due September 2](https://tinyopsstudio.com/cmhc-ai-translation-mtpe-rfi-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Dalhousie Virtual Software Applications, due September 2](https://tinyopsstudio.com/dalhousie-virtual-software-applications-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [NPPGov Government Fleet RFP 2675, due September 4](https://tinyopsstudio.com/nppgov-fleet-rfp2675-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [IEA Bioenergy website redesign and maintenance, due September 4](https://tinyopsstudio.com/iea-bioenergy-website-tender-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [City of Calgary Tax Systems Modernization, due September 15](https://tinyopsstudio.com/calgary-tax-systems-modernization-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Alberta Clinical Ambient AI, due September 17](https://tinyopsstudio.com/alberta-clinical-ambient-ai-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [AHCCCS ALTCS E/PD Managed Care, due September 24](https://tinyopsstudio.com/ahcccs-altcs-epd-managed-care-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
