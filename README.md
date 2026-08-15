@@ -39,6 +39,7 @@ These independent checklists help qualified primes and vendors map requirements,
 - [AHCCCS ALTCS E/PD Managed Care, due September 24](https://tinyopsstudio.com/ahcccs-altcs-epd-managed-care-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [VIA Rail EUC Managed Services, due September 28](https://tinyopsstudio.com/via-rail-euc-managed-services-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 - [Sourcewell unified communications and contact center, due September 29](https://tinyopsstudio.com/sourcewell-uc-contact-center-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
+- [Town of Morinville ERP advisory services, due October 2](https://tinyopsstudio.com/morinville-erp-response-checklist?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists)
 
 [Open the complete RFP gap-scan resource](https://tinyopsstudio.com/rfp-compliance-gap-scan?utm_source=github&utm_medium=profile&utm_campaign=rfp_checklists).
 
