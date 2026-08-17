@@ -6,6 +6,7 @@ TinyOps builds fixed-scope automation, AI operations, and workflow rescue system
 
 | Service | Price | Typical delivery | Start |
 | --- | ---: | --- | --- |
+| Quick workflow triage | $19 | 1 business day | [Start the written triage](https://tinyopsstudio.com/quick-workflow-triage?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | 3-workflow automation audit | $99 | 3 business days | [Buy the audit](https://tinyopsstudio.gumroad.com/l/workflow-audit?wanted=true) |
 | RFP compliance gap scan | $149 | 1 business day | [Buy the gap scan](https://whop.com/joined/tinyops-studio-llc/products/rfp-compliance-gap-scan/) |
 | Proposal response accelerator | $2,500 | Fixed scope | [Buy the accelerator](https://whop.com/proposal-response-accelerator/) |
@@ -15,6 +16,8 @@ TinyOps builds fixed-scope automation, AI operations, and workflow rescue system
 | Excel sales forecast model | $499 | 3 to 5 days | [View the service](https://reworkdigital.io/services/i-will-build-your-excel-sales-forecast-model-14/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | Focused AI operations assistant | $999 | Fixed scope | [View the service](https://reworkdigital.io/services/i-will-build-a-focused-ai-operations-assistant-19/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
 | Urgent automation rescue sprint | $4,999 | Priority delivery | [View the service](https://reworkdigital.io/services/i-will-rescue-your-urgent-automation-project-21/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) |
+
+Unsure which scope fits? [Run the free workflow scope analyzer](https://tinyopsstudio.github.io/python-workflow-scope-demo/?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services) before buying.
 
 Need a larger or unusual scope? [Send the written intake](https://tinyopsstudio.com/start?utm_source=github&utm_medium=profile&utm_campaign=tinyops_services).
 
